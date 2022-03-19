@@ -23,7 +23,12 @@ Vamos usar a API de exemplo Dummy Rest API
 > Veja que ele nos oferece rotas com todos os verbos HTTP apresentados inicialmente e nos permite buscar, criar, deletar e atualizar empregados (employees)
 
 http://dummy.restapiexample.com/api/v1/employees
+https://reqres.in
 
 ### Executar Test
 No terminal acessar a pasta do teste e executar:
 > python getTest.py
+
+### Analise de Código
+Projeto configurado no sonarCloud
+> https://sonarcloud.io/project/overview?id=diegomachadoti_python-api-test
