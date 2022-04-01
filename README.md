@@ -8,8 +8,9 @@ Projeto realizando teste em API REST utilizando python.
 * Algum editor de texto ou IDE (VsCode ou PyCharm)
 
 ### Instalação do Python
-Acesse aqui: https://www.python.org/downloads/
-> Faça o download da versão mais recente (ou de alguma versão recente, o importante é que utilizemos Python 3 porque o suporte ao Python 2 foi encerrado no fim de 2019.
+Acesse para downloas:
+* [Python](https://www.python.org/downloads/)
+> Faça o download da versão mais recente (ou de alguma versão recente, o importante é que utilizemos Python 3 porque o suporte ao Python 2.
 
 Verificar python configurado
 > python -V
