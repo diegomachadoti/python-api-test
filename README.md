@@ -15,7 +15,6 @@ Acesse para downloas:
 Verificar python configurado
 > python -V
 
-
 ### Instação bibliotecas do pytest
 > pip install requests pytest
 
