@@ -5,6 +5,7 @@ gradlew
 gradle/
 gradlew.bat
 out/
+.pytest_cache
 
 ### STS ###
 .apt_generated

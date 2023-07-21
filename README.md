@@ -19,12 +19,20 @@ Verificar python configurado
 ### Instação bibliotecas do pytest
 > pip install requests pytest
 
-### Api de Teste
+> pip install selenium
+
+> pip install faker
+
+### Teste de Api
 Vamos usar a API de exemplo Dummy Rest API
 > Veja que ele nos oferece rotas com todos os verbos HTTP apresentados inicialmente e nos permite buscar, criar, deletar e atualizar empregados (employees)
 
 * [Dummy](http://dummy.restapiexample.com/api/v1/employees)
 * [Reqres](https://reqres.in)
+
+### Teste Web
+> Exemplo usando o selenium webDriver 
+* [Serverest](https://front.serverest.dev/)
 
 ### Executar Test
 No terminal acessar a pasta do teste e executar:
