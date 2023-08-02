@@ -6,7 +6,8 @@ gradle/
 gradlew.bat
 out/
 .pytest_cache
-
+.__pycache__
+.idea
 ### STS ###
 .apt_generated
 .classpath
